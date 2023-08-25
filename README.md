@@ -1,6 +1,6 @@
-# JWT-KMS
+# JWT-KMS-V3
 
-Sign and validate JWT tokens using keys stored in the AWS Key Management Service (KMS). 
+Sign and validate JWT tokens using AWS Key Management Service (KMS) keys. 
 
 This library uses the AWS SDK V3 library
 
