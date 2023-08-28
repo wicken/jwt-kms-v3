@@ -2,7 +2,7 @@
   "type": "module",
   "name": "jwt-kms-v3",
   "version": "1.0.0",
-  "description": "Sign and validate JWT tokens using keys stored in the AWS Key Management Service (KMS).",
+  "description": "Sign and validate JWT tokens using keys stored in the AWS Key Management Service (KMS), using SDK v3",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/* --bail"
